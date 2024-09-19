@@ -1,5 +1,9 @@
+[![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm R.Hamsathvani</h1>
 <h3 align="center">A passionate full stack developer from Srilanka</h3>
+<img align="right" alt="coding"width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamsathvani200&label=Profile%20views&color=0e75b6&style=flat" alt="hamsathvani200" /> </p>
 
